@@ -1,0 +1,11 @@
+cython
+ctype
+
+fiona
+geopandas
+matplotlib
+numpy
+pandas
+pyproj
+pyshp
+shapely
